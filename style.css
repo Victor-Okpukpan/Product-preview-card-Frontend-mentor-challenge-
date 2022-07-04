@@ -20,7 +20,7 @@ body {
     max-width: 600px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 10px;
-    display: flex;;
+    display: flex;
 }
 
 /*Making the container share equal space*/
